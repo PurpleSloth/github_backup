@@ -1,0 +1,13 @@
+env/
+venv/
+.venv/
+
+.env
+
+storage/
+stars.txt
+repo-backup/
+
+__pycache__/
+*.pyc
+*.pyo
